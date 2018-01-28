@@ -1,6 +1,6 @@
 /**
-*  Written by Piotr Falkowski, 2014. piotr.falkowski.fm@gmail.com
-*  Use as you like, as long as you acknowledge the source.
+*  Written by Piotr Falkowski, 2014 piotr.falkowski.fm at gmail.com
+*  this work is open source under agpl-3.0
 **/
 #ifndef NORMALIZATION_H_INCLUDED
 #define NORMALIZATION_H_INCLUDED
